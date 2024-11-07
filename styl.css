@@ -1,0 +1,38 @@
+ a[target="_top"]{ 
+     background-color: yellow;
+}
+.class1 .class2 .class3 h2 {
+    padding: 5px;
+    background-color: red;
+    height: 20px;
+}
+
+.a{
+    background-color: red;
+}
+.class1 .class2{
+    background-color: green;
+}
+
+
+a[target="_top"]{
+    background-color: red;
+}
+a[target="_self"]{
+    background-color: yellow;
+}
+a[target="_parent"]{
+    background-color: green;
+}
+.class1 .class2{
+    background-color: aqua;
+}
+.class1.class2{
+    background-color: orange;
+    align-content: center;
+}
+body{
+    color: purple;
+}
+ 
+ 
